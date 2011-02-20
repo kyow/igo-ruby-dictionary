@@ -8,5 +8,6 @@
 
 module Igo
   class Dictionary
+  
   end
 end
